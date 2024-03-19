@@ -13573,6 +13573,12 @@ main .gallery-section .gallery-item .gallery-item-info h4::after, main .gallery-
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
 }
+main .gallery-section .gallery-item .gallery-item-info i {
+  color: #1573b2;
+}
+main .gallery-section .gallery-item .gallery-item-info a {
+  text-decoration: none;
+}
 
 footer {
   border-top: 1px solid rgba(204, 204, 204, 0.5);
